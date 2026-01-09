@@ -1,0 +1,55 @@
+{
+	"name": "jcem.pro.root",
+	"version": "1.0.0",
+	"description": "",
+	"homepage": "https://github.com/jcempro/radioamador",
+	"bugs": {
+		"url": "https://github.com/jcempro/radioamador/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jcempro/radioamador/root.git"
+	},
+	"license": "ISC",
+	"author": "Jean Carlo E. M.",
+	"type": "module",
+	"scripts": {
+		"minify": "node .minify.html.js",
+		"watch": "npm-watch",
+		"dev": "npm run minify && npm run watch",
+		"repetidoras": "node ./assets/js/repetidoras/index.main.cjs",
+		"gerar-sumario": "node ./assets/js/gerar_sumario.js"
+	},
+	"watch": {
+		"minify": {
+			"patterns": [
+				"**/*.main.html",
+				"**/*.main.css",
+				"**/*.main.scss",
+				"**/*.main.js",
+				"**/*.main.cjs",
+				"**/*.ts"
+			],
+			"extensions": [
+				"html",
+				"css",
+				"scss",
+				"js",
+				"cjs",
+				"ts"
+			],
+			"quiet": false
+		},
+		"gerar-sumario": {}
+	},
+	"devDependencies": {
+		"clean-css": "^5.3.3",
+		"html-minifier-terser": "^7.2.0",
+		"jsdom": "^27.2.0",
+		"npm-watch": "^0.13.0",
+		"terser": "^5.44.1"
+	},
+	"files": [
+		".minify.html.js"
+	]
+}

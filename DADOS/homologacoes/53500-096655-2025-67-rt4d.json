@@ -1,0 +1,38 @@
+{
+	"id": [
+		[
+			"53500.096655/2025-67",
+			"https://sei.anatel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?92AHliMZAlcgWWxm2w2qy-GDVz335h7FYd_mrGCDn9UEi2XStDTUZKOJ_damneHH9mwnSMIjw0l3j23hD04TsmKdNpAzW3KdUUt8SDuKw6bY-2wwmog_vVtP00EoPoRe"
+		],
+		[
+			"53500.101158/2025-98",
+			"https://sei.anatel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?92AHliMZAlcgWWxm2w2qy-GDVz335h7FYd_mrGCDn9UEi2XStDTUZKOJ_damneHH9mwnSMIjw0l3j23hD04TsokhNhfWFsc7k4M3vtL2K02XY2Ej5Mcr4trhO_9AWhJd"
+		]
+	],
+	"r": [
+		[
+			"18170/2025/ORCN/SOR",
+			"https://sei.anatel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?8-74Kn1tDR89f1Q7RjX8EYU46IzCFD26Q9Xx5QNDbqbFUED3Bg0VrqDYnVXNSzHiwgKYCxEaBK828Kz5laag4KkElCS_xWMK7h9y6HhrTpTkb6aN0sWGA3vGe4TcfHWW"
+		],
+		[
+			"PDF: Despacho 14967713",
+			"https://ide2lnk.github.io/DADOS/homologacoes/pdf/Despacho_Decisorio_14967713.pdf"
+		]
+	],
+	"dt": "07/01/2026",
+	"v": [14967713, "FB16B180"],
+	"mc": "Radtel",
+	"md": "RT-4D",
+	"sn": "9251DMR07164",
+	"fccid": ["2AZSA-RT4D", "https://fcc.report/FCC-ID/2AZSA-RT4D"],
+	"dp": "11/11/2025",
+	"tp": "${imp}",
+	"cid": "03",
+	"items": [
+		["Rastreio", "NM967262705BR"],
+		[
+			"Assinador",
+			"Documento assinado eletronicamente por Secundino da Costa Lemos, Gerente de Certificação eNumeração, Substituto(a), em 07/01/2026, às 15:26, conforme horário oficial de Brasília, comfundamento no art. 23, inciso II, da Portaria nº 912/2017 da Anatel."
+		]
+	]
+}
